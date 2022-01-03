@@ -54,3 +54,4 @@ Thumbs.db
 
 # Ignore .vs folder (will auto created by Visual Studio)
 **/.vs
+**/nuget folder
